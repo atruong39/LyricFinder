@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is a simple music lyric search app made with tutorials by Traversy Media. Tutorial Playlist: https://www.youtube.com/watch?v=NDEt0KdDbhk&list=PLillGF-RfqbaxgxkKgKk1XlJAVCX31xRI
+
 ## Available Scripts
 
 In the project directory, you can run:
