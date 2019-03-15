@@ -18,15 +18,6 @@ const Track = props => {
               <i className="fas fa-compact-disc" /> Album
             </strong>
             : {track.album_name}
-            <br />
-            <strong>
-              <i className="fas fa-music" /> Genre
-            </strong>
-            :{" "}
-            {
-              track.primary_genres.music_genre_list[0].music_genre
-                .music_genre_name
-            }
           </p>
           <Link
             to={`lyrics/track/${track.track_id}`}
